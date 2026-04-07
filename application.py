@@ -2,7 +2,6 @@
 
 import streamlit as st
 from PIL import Image
-from google import genai
 from pdf2image import convert_from_path
 import pytesseract
 import pdfplumber
